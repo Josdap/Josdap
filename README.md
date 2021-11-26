@@ -12,7 +12,7 @@
 - 🌱 Estoy aprendiendo:
 <!-- Aprendiendo a programar -->
   <a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
- <img src="https://lh3.googleusercontent.com/proxy/dim07gsLuwITM9Z8DU4Q6q6wx2EN5GhcRAg6utNLrkwylWz_vBNeNvGa0eS6Pg9aOWZnOmiDLKbhiAX_Xzr6rd1wDYvK9CKHjHrkulexpeAunm-LOzb1fz5z_OGGYIpR9Xq2fFysL3JK" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
+ <img src="https://www.gokiebox.com/comparte/wp-content/uploads/2017/09/javascript-logo-1.pngt" width="40" height="40" style="max-width: 100%;"> 
  <img src="https://www.tech-bi.com/wp-content/uploads/2021/06/ms-sql-server-logo.png" alt="SqlServer" width="40" height="40" style="max-width: 100%;">
  <img src="https://clipart.info/images/ccovers/1499794873php-logo-filled-png.png" alt="php" width="40" height="40" style="max-width: 100%;">
  <img src="https://www.flormartz.com/wp-content/uploads/2016/03/cinema-4d-logo-centrado.jpg" alt="cinema4d" width="40" height="40" style="max-width: 100%;">

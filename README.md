@@ -1,8 +1,8 @@
 ### Hola, Bienvenidos a mi perfil 👋
-https://miro.medium.com/max/1000/0*qSD6Z697a5baxF8H.gif
+
 <!--
 **Josdap/Josdap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://miro.medium.com/max/1000/0*qSD6Z697a5baxF8H.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

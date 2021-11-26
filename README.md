@@ -5,7 +5,7 @@
 
 <img src="https://miro.medium.com/max/1000/0*qSD6Z697a5baxF8H.gif" width="415" align="center" style="max-width: 100%;">
 
-I am learning to program:
+
 
 
 - 📫 Contactame: jarcaprieto123@gmail.com

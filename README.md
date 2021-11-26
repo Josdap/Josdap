@@ -15,5 +15,5 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
  <img src="https://www.tech-bi.com/wp-content/uploads/2021/06/ms-sql-server-logo.png" alt="SqlServer" width="40" height="40" style="max-width: 100%;">
  <img src="https://clipart.info/images/ccovers/1499794873php-logo-filled-png.png" alt="php" width="40" height="40" style="max-width: 100%;">
- <img src="https://1000marcas.net/wp-content/uploads/2021/02/Cinema-4D-Logo.png" alt="cinema4d" width="40" height="40" style="max-width: 100%;">
+ <img src="https://www.flormartz.com/wp-content/uploads/2016/03/cinema-4d-logo-centrado.jpg" alt="cinema4d" width="40" height="40" style="max-width: 100%;">
 

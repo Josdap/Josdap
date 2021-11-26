@@ -8,8 +8,8 @@
 I am learning to program:
 
 
-- 📫 How to contact me: jarcaprieto123@gmail.com
-- 🌱 I am currently learning:
+- 📫 Contactame: jarcaprieto123@gmail.com
+- 🌱 Estoy aprendiendo:
 <!-- Aprendiendo a programar -->
   <a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40" style="max-width: 100%;">

@@ -14,6 +14,6 @@
   <a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
  <img src="https://img2.freepng.es/20180422/hrq/kisspng-javascript-web-development-logo-script-clipart-5adc4c1a932f97.7568863815243868426029.jpg" width="40" height="40" style="max-width: 100%;"> 
  <img src="https://www.tech-bi.com/wp-content/uploads/2021/06/ms-sql-server-logo.png" alt="SqlServer" width="40" height="40" style="max-width: 100%;">
- <img src="[https://clipart.info/images/ccovers/1499794873php-logo-filled-png.png](https://pngimg.com/uploads/php/small/php_PNG43.png)" alt="php" width="40" height="40" style="max-width: 100%;">
+ <img src="https://i.pinimg.com/originals/2d/3a/7d/2d3a7d7d1ad7adeded994de246f60c43.png" alt="php" width="40" height="40" style="max-width: 100%;">
  <img src="https://www.flormartz.com/wp-content/uploads/2016/03/cinema-4d-logo-centrado.jpg" alt="cinema4d" width="40" height="40" style="max-width: 100%;">
 
